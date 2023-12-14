@@ -1,2 +1,3 @@
-# MACH22-23
-Repositorio para la asignatura de Machine Learning UCM Matemáticas
+# Food Vision
+Proyecto de la asignatura de Machine Learning.
+Creación de un modelo de identificación de imágenes de comida utilizando TensorFlow.
